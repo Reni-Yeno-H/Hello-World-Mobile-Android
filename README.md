@@ -3,10 +3,10 @@
 
 
 ### App Walk-though
-`TODO://` 
+ 
 <img src="http://g.recordit.co/KVX8OWrj6G.gif" width=200><br>
 
-`TODO://` 
+  
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
